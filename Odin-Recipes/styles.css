@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 80%;
+    background-color: #D7D7DE;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3rem;
+}
