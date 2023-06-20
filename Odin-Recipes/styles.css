@@ -8,6 +8,7 @@ body {
     background-color: #D7D7DE;
     text-align: center;
     margin: 0 auto;
+    display: block;
 }
 
 h1 {
